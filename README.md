@@ -14,3 +14,10 @@ The final transcript must look like a continuous dialogue script, and every turn
 For every question, you don't need to give too long answer, since long questions are not quite efficient to read and understand.  
 
 For this question, you only need to read the papers. Next I will start my quesitions. Remeber for all question include this question you should follow the output format.  
+
+
+Common use prompts:
+
+You lost your format, please answer the last question again with carefully check the format. For the user questions, use the last question.
+
+Can you give five questions on this paper and answer these questions? These questions do not need to be hard, but might be the easy missed questions.
